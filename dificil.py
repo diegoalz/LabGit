@@ -1,2 +1,2 @@
-while 1 <= 10:
-    print("Hola")
+for n in range(1, 11):
+    print(f"Hola {n}")
